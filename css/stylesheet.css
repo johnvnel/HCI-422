@@ -1,4 +1,9 @@
 .my-photo {
-    width: 100px;  
+    width: 300px;  
     height: auto;
+    margin-left: 20px;
+}
+
+.index_page-heading {
+    text-align: center;
 }
